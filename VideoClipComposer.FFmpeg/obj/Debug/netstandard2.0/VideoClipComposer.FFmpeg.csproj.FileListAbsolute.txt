@@ -1,0 +1,11 @@
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\bin\Debug\netstandard2.0\VideoClipComposer.Abstractions.dll
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\obj\Debug\netstandard2.0\VideoClipComposer.FFmpeg.AssemblyInfoInputs.cache
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\obj\Debug\netstandard2.0\VideoClipComposer.FFmpeg.AssemblyInfo.cs
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\obj\Debug\netstandard2.0\VideoClipComposer.FFmpeg.csprojAssemblyReference.cache
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\bin\Debug\netstandard2.0\VideoClipComposer.FFmpeg.deps.json
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\bin\Debug\netstandard2.0\VideoClipComposer.FFmpeg.dll
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\bin\Debug\netstandard2.0\VideoClipComposer.FFmpeg.pdb
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\bin\Debug\netstandard2.0\VideoClipComposer.Abstractions.pdb
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\obj\Debug\netstandard2.0\VideoClipComposer.FFmpeg.csproj.CopyComplete
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\obj\Debug\netstandard2.0\VideoClipComposer.FFmpeg.dll
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.FFmpeg\obj\Debug\netstandard2.0\VideoClipComposer.FFmpeg.pdb

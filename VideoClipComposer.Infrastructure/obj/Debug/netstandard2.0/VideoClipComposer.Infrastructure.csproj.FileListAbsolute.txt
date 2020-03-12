@@ -1,0 +1,6 @@
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.Infrastructure\bin\Debug\netstandard2.0\VideoClipComposer.Infrastructure.deps.json
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.Infrastructure\bin\Debug\netstandard2.0\VideoClipComposer.Infrastructure.dll
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.Infrastructure\obj\Debug\netstandard2.0\VideoClipComposer.Infrastructure.csprojAssemblyReference.cache
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.Infrastructure\obj\Debug\netstandard2.0\VideoClipComposer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.Infrastructure\obj\Debug\netstandard2.0\VideoClipComposer.Infrastructure.AssemblyInfo.cs
+C:\Users\fr0ze\source\repos\VideoClipComposer\VideoClipComposer.Infrastructure\bin\Debug\netstandard2.0\VideoClipComposer.Abstractions.dll
