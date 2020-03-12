@@ -11,5 +11,10 @@ namespace VideoClipComposer.Infrastructure.Data
         {
 
         }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.ApplyConfigurationsFromAssembly(typeof(VideoProjectsDbContext).Assembly);
+        }
     }
 }
