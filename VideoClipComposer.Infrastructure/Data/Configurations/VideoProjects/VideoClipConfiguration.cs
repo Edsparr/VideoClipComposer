@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 using VideoClipComposer.Abstractions.Data.Models.VideoProjects;
 
-namespace VideoClipComposer.Infrastructure.Data.Configurations
+namespace VideoClipComposer.Infrastructure.Data.Configurations.VideoProjects
 {
     public sealed class VideoClipConfiguration : IEntityTypeConfiguration<VideoClip>
     {

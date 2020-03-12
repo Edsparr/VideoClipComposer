@@ -6,7 +6,7 @@ using System.Text;
 using VideoClipComposer.Abstractions.Data.Models;
 using VideoClipComposer.Abstractions.Data.Models.VideoProjects;
 
-namespace VideoClipComposer.Infrastructure.Data.Configurations
+namespace VideoClipComposer.Infrastructure.Data.Configurations.VideoProjects
 {
     public class VideoProjectConfiguration : IEntityTypeConfiguration<VideoProject>
     {
